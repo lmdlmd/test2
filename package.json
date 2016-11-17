@@ -1,0 +1,10 @@
+{
+	"name": "Node.js-Chat",
+	"description": "Ein einfacher Chat mit Node.js",
+	"author": "NodeCode.de",
+	"dependencies" : {
+		"express": "*",
+		"fs": "*",
+		"socket.io": "*"
+	}
+}
